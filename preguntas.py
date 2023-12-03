@@ -13,7 +13,7 @@ def pregunta_01():
     Complete el código presentado a continuación.
     """
     # Importe pandas
-    import padas as pd
+    import pandas as pd
 
     # Importe PolynomialFeatures
     from sklearn.preprocessing import PolynomialFeatures
